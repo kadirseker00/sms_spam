@@ -1,3 +1,22 @@
+# Virtual environment
+spam_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+*.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
