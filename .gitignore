@@ -1,6 +1,9 @@
 # Virtual environment
 spam_env/
 
+# Large model/pickle files
+*.pkl
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
